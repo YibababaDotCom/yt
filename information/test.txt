@@ -1,0 +1,6 @@
+~~ DO NOT EDIT THE FIRST 2 LINES	
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+
+NBC News NOW | | | |
+https://www.youtube.com/watch?v=kSXD6iI0TzY&ab_channel=NBCNews
