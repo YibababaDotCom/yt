@@ -2,6 +2,7 @@
 echo $(dirname $0)
 python3 -m pip install requests
 cd $(dirname $0)/scripts/
+python3 test.py > ../streams/test.m3u8
 python3 1905cctv6.py > ../streams/1905cctv6.m3u8
 python3 1905english.py > ../streams/1905english.m3u8
 python3 1905herstory.py > ../streams/1905herstory.m3u8
